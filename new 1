@@ -1,0 +1,38 @@
+Hi
+
+You need to structure your project right:
+
+EG:
+
+source folder
+   -resources folder
+       -css folder
+	   -images folder
+       -mail folder
+	your pages
+	
+upload the files in git cause it wont work on local
+
+hi 
+
+if it doesnt work after i did that i'll just re do it fom scratch 
+i'll delete all the folders that i have and redo it again
+
+over
+
+
+Why do you have to use git for hosting the git? Git is for storing the code. Thats why it does not work.
+You need to upload it to a domain. Free domain. 
+
+the instructions said we need to use git , what do you think? or what can you recommend?
+over
+its my frst time doing this ,i learned nertworks so i would'nt say i know what i'm doing . i've only started this 2 weeks ago
+
+Okay if the instructions says that upload it to git. But you can show them on your local machine that it runs
+
+Clean the files I did resources folder for you. I need to sleep now. 
+
+Give me 10 minutes will clean your code
+
+
+Done you can upload the code to git. it wont work on local machine for sending email. It must run on the internet.
